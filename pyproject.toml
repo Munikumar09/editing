@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "editing"
+version = "0.1.0"
+description = ""
+authors = ["munikumar.mm <munikumar.m09@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+selenium = "^4.16.0"
+pyautogui = "^0.9.54"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
